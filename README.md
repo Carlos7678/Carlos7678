@@ -1,16 +1,27 @@
-### Hi there 👋
+# 1. Habilidades y tecnologías :computer:
+### Se utilizar Java y un poco de Ruby.
 
-<!--
-**Carlos7678/Carlos7678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me gustaria trabajar creando videojuegos.🎮
+# 2. Proyetos personales 🦸‍♂️
+### 1 Juego creado y [otro en desarrollo.](https://pokemontemporaldelta.blogspot.com/2022/12/pokemontemporaldelta.html)
+# 3. Experencia Laboral 👷‍♂️
+### Practicas en [Edein (Liria).](https://edein.com/)
+# 4. Educación 👨‍🎓
+### Grado medio de SMR (Sistemas microinformaticos y redes) en fpCheste.
+# 5. Datos de contacto :iphone:.
+### Mi Instagram personal: https://www.instagram.com/carlossoriano03/
+# 6. Hobbies e intereses :money_with_wings:
+### Escuchar musica, futbol y jugar videojuegos.
 
-Here are some ideas to get you started:
+### Spotify Playing 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntl5qc18a2r2q6kynlf5i5yni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+# 7. Editores de código o entornos de desarrollo que dominas 🖥
+### Netbeans, Visual Studio y RPG Maker.
+# 8. Estadísticas en GitHub 🏆
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos7678&show_icons=true&hide_border=true)
+
+
+
+
