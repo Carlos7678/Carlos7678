@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntl5qc18a2r2q6kynlf5i5yni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntl5qc18a2r2q6kynlf5i5yni&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=0ed408&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ntl5qc18a2r2q6kynlf5i5yni&redirect=true)
 
 # 7. Editores de código o entornos de desarrollo que dominas 🖥
 ### Netbeans, Visual Studio y RPG Maker.
