@@ -1,7 +1,8 @@
 # Hola, soy Carlos Soriano 👋
 
 ## Sobre mí 🧑‍💻
-- Tengo 20 años y actualmente estoy estudiando el curso de DAW (Desarrollo de Aplicaciones Web) en [fpCheste](https://www.fpcheste.com/joomla/index.php/es/). Titulado en SMR (Sistemas Microinformáticos y Redes) también en fpCheste.
+- Tengo 20 años y actualmente estoy estudiando el curso de DAW (Desarrollo de Aplicaciones Web) en [fpCheste](https://www.fpcheste.com/joomla/index.php/es/).
+- Titulado en SMR (Sistemas Microinformáticos y Redes) también en fpCheste.
 
 ## Habilidades y Tecnologías 💻
 - Desarrollo en Java
