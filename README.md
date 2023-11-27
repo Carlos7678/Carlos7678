@@ -12,8 +12,8 @@
 Me apasiona la creación de videojuegos 🎮.
 
 ## Proyectos Personales 🚀
-- Desarrollé un juego con RPG Maker utilizando RGSS.
-- [Actualmente trabajando en otro proyecto en desarrollo.](https://pokemontemporaldelta.blogspot.com/2022/12/pokemontemporaldelta.html)
+- Desarrollé dos juego con RPG Maker utilizando RGSS.
+- [Link de información de mi último juego](https://pokemontemporaldelta.blogspot.com/2022/12/pokemontemporaldelta.html)
 
 ## Experiencia Laboral 👷‍♂️
 - Realicé prácticas en [Edein (Liria)](https://edein.com/).
