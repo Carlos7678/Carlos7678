@@ -6,7 +6,7 @@
 
 ## Habilidades y Tecnologías 💻
 - Desarrollo en Java
-- Conocimientos en PHP, JavaScript, C#, Python, HTML, CSS, Bootstrap, SQL y  Ruby.
+- Conocimientos en  APIs, Angular, Ionic, PHP, JavaScript, C#, Python, HTML, CSS, TypeScript, Bootstrap, Ruby y SQL.
 - [RGSS (Ruby Game Scripting System)](https://whackahack.com/wiki/RGSS)
 
 Me apasiona la creación de videojuegos 🎮.
@@ -14,9 +14,11 @@ Me apasiona la creación de videojuegos 🎮.
 ## Proyectos Personales 🚀
 - Desarrollé dos juego con RPG Maker utilizando RGSS.
 - [Link de información de mi último juego](https://pokemontemporaldelta.blogspot.com/2022/12/pokemontemporaldelta.html)
+- Trabajo de Fin de Grado de DAW: [StatsHeaven](https://statsheaven-ee02c.web.app/home)
 
 ## Experiencia Laboral 👷‍♂️
-- Realicé prácticas en [Edein (Liria)](https://edein.com/).
+- Realicé prácticas de SMR en [Edein (Liria)](https://edein.com/).
+- Realicé prácticas de DAW en [Pavabits (Valencia)](https://www.pavabits.com/en/invoice-system-en/).
 
 ## Datos de Contacto 📱
 - Conéctame en [Instagram](https://www.instagram.com/carlossoriano03/).
@@ -37,10 +39,12 @@ Me apasiona la creación de videojuegos 🎮.
 - RPG Maker
 - Atom
 - SQL Developer
+- PyCharm
 
 ## Cualidades Personales 🌟
 - Soy perfeccionista y me esfuerzo por hacer un trabajo impecable.
 - Comprometido con mis proyectos, siempre buscando mejorar y aprender.
+- Tengo una gran capacidad para aprender y adaptarme rápidamente a cualquier situación.
 
 ## Estadísticas en GitHub 🏆
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos7678&show_icons=true&hide_border=true)
